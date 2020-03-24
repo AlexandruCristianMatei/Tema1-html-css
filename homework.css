@@ -1,0 +1,53 @@
+.div1{
+    margin-top: 0.3cm;
+    margin-right: 125mm;
+    margin-bottom: 0mm;
+    margin-left: 30%;
+    font-size: small;
+}
+.WS{
+    word-spacing: 55mm;
+}
+#h1{
+    margin-top: 0.3cm;
+    margin-right: 30%;
+    margin-left: 30%;
+    font-size: 0.4cm;
+}
+.div2{
+    margin-top: 0mm;
+    margin-right: 135mm;
+    margin-left: 30%;
+    font-size: small;
+    text-underline-position: below;
+}
+.div3{
+    margin-top: 0.3cm;
+    margin-right: 131.5mm;
+    margin-left: 30%;
+    font-size: small;
+    line-height: 5.5mm;
+}
+.div4{
+    margin-top: 0cm;
+    margin-right: 130mm;
+    margin-left: 30%;
+    font-size: small;
+    line-height: 5.5mm;
+    word-spacing: .1mm;
+}
+.div5{
+    margin-top: 0cm;
+    margin-right: 131mm;
+    margin-left: 30%;
+    font-size: small;
+    word-spacing: .2mm;
+    line-height: 5.5mm;
+}
+.div0{
+    margin-top: 0.3cm;
+    margin-right: 125mm;
+    margin-bottom: 0mm;
+    margin-left: 30%;
+    font-size: small;
+}
