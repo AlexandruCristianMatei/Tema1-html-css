@@ -1,0 +1,52 @@
+    .content {
+        margin: 1% 20%;
+    }
+    
+    .split {
+        float: left;
+        padding: 10px;
+        /* max-height: 360px;
+        max-width: 200px: */
+    }
+    
+    #splita {
+        width: 15%;
+        line-height: 25px;
+    }
+    
+    #splitb {
+        width: 2%;
+    }
+    
+    #splitc {
+        width: 50%;
+    }
+    
+    .blue {
+        color: blue;
+    }
+    
+    .round {
+        height: 180px;
+        width: 180px;
+        border-radius: 50%;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    
+    .one {
+        word-spacing: 5mm;
+    }
+    
+    .two {
+        word-spacing: 11mm;
+    }
+    
+    .three {
+        word-spacing: 9mm;
+    }
+    
+    .about {
+        line-height: 25px;
+    }
